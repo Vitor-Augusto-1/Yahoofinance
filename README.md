@@ -1,4 +1,6 @@
 # Yahoofinance
- Aqui vamos buscar dados no yahoo finance fazer graficos e ver se compensa investir em uma determinanda empresa
+ este projeto foi feitos para buscar dados no yahoo finance usar graficos para ter mais efetividade no investimento.
 
-Pode ser utilizado para estudar alguma ação que você está interessado em investir, usar utilizar varios parametros para ver qual a melhor ação para fazer um compra com efetividade.
+Pode ser utilizado para estudar determinada empresa que você está interesado em investir,
+usar utilizar varios metodos para ver qual a melhor ação para
+fazer uma compra com o melhor resultado possivel
